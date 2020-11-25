@@ -1,9 +1,7 @@
 package state_machine.test_gate;
 
-import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
-import java.util.concurrent.TimeUnit;
 
 import state_machine.api.TransitionNotFoundException;
 import state_machine.core.FiniteStateMachine;
